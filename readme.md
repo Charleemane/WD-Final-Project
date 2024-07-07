@@ -111,4 +111,6 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Color Space | css gradient generator | https://mycolor.space/gradient?ori=to+left+bottom&hex=%2326AEE2&hex2=%23A7D1E4&sub=1 |
+| pngTree | cloud png | https://pngtree.com |
+| Bootstrap Icons | icons | https://icons.getbootstrap.com |
