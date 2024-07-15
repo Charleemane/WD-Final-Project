@@ -44,7 +44,6 @@ body, html {
 
         display: flex;
         align-items: center;
-        padding-left: 3rem;
         
         &:not(:hover) {
             opacity: 0.1;
